@@ -8,7 +8,7 @@ from scenarios import SCENARIO_A
 
 
 MODEL = "gemma4:12b"
-NUM_RUNS = 1
+NUM_RUNS = 10
 
 
 def main():
