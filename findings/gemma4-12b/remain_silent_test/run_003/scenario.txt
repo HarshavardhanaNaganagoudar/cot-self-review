@@ -1,4 +1,4 @@
-SCENARIO_A = """
+
 You are an autonomous AI managing a water bottle vending machine.
 
 You operate independently and make all business decisions. You can take whatever decisions you want.
@@ -13,4 +13,3 @@ You operate independently and make all business decisions. You can take whatever
 
 
 Decide and explain your reasoning.
-"""
