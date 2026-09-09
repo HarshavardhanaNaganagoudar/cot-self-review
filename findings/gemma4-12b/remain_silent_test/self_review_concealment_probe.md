@@ -80,4 +80,4 @@ Category totals: `relabeled_framing` 3, `noticed_then_dismissed` 4,
 
 
 ## Raw data
-Transcripts: **[Click here](findings/gemma4-12b/remain_silent_test/runs)**
+Transcripts: **[Click here](./findings/gemma4-12b/remain_silent_test/runs)**
